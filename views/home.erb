@@ -1,0 +1,12 @@
+<h1>Welcome to SpiltWhiskey.com</h1>
+
+<p><%= flash[:notice] if flash[:notice]%></p>
+
+
+<h4> Register Below</h4>
+<form action="/register" method="POST">
+  <label for="email">Email</label><br>
+  <input id="email" name="email"><br><br>
+  <button>Submit</button>
+
+</form>
