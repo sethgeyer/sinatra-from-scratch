@@ -10,6 +10,6 @@ Good luck! This could be it!
 
 If you finish with the first task, provide a way for Terence to view the emails in the database. He's not very good at Ruby; no one actually uses bundler.
 
-## Really impress Terence
+## Really suck up to Terence
 
 Show the emails in the database *without* writing any code.
